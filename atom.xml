@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YYli&#39;s Space</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://20syy.github.io/"/>
+  <updated>2020-07-22T14:14:39.167Z</updated>
+  <id>http://20syy.github.io/</id>
+  
+  <author>
+    <name>YYli_</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome To LJY&#39;s Blog!</title>
+    <link href="http://20syy.github.io/2020/07/22/hello-world/"/>
+    <id>http://20syy.github.io/2020/07/22/hello-world/</id>
+    <published>2020-07-22T12:20:23.113Z</published>
+    <updated>2020-07-22T14:14:39.167Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
