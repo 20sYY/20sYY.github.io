@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://20syy.github.io/"/>
-  <updated>2020-07-23T05:49:13.379Z</updated>
+  <updated>2020-07-23T05:59:51.222Z</updated>
   <id>http://20syy.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://20syy.github.io/2020/07/23/FOC%E6%8E%A7%E5%88%B6%E7%AC%94%E8%AE%B0/"/>
     <id>http://20syy.github.io/2020/07/23/FOC%E6%8E%A7%E5%88%B6%E7%AC%94%E8%AE%B0/</id>
     <published>2020-07-23T05:19:30.766Z</published>
-    <updated>2020-07-23T05:49:13.379Z</updated>
+    <updated>2020-07-23T05:59:51.222Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>因为项目需要，需要使用到伺服电机，作为机器人开发的爱好者，我认为需要学习一下无刷电机的驱动器，这里就把自己学习foc驱动器的过程记录一下。本人并非自控专业，若文章有错，也欢迎指出！</p></blockquote><h1 id="FOC"><a href="#FOC" class="headerlink" title="FOC"></a>FOC</h1><p>FOC（Field-Oriented Control），也叫磁场定向控制，是目前无刷直流电机（BLDC）和永磁同步电机（PMSM）高效控制的最佳选择。FOC精确地控制磁场大小与方向，使得电机转矩平稳、噪声小、效率高，并且具有高速的动态响应。由于FOC的优势明显，目前已在很多应用上逐步替代传统的控制方式，在运动控制行业中备受瞩目</p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>因为项目需要，需要使用到伺服电机，作为机器人开发的爱好者，我认为需要学习一下无刷电机的驱动器，这里就把自己学习foc驱动器的过程记录一下。本人并非自控专业，若文章有错，也欢迎指出！</p></blockquote><h1 id="FOC"><a href="#FOC" class="headerlink" title="FOC"></a>FOC</h1><h2 id="什么是FOC？"><a href="#什么是FOC？" class="headerlink" title="什么是FOC？"></a>什么是FOC？</h2><p>FOC（Field-Oriented Control），也叫磁场定向控制，是目前无刷直流电机（BLDC）和永磁同步电机（PMSM）高效控制的最佳选择。FOC精确地控制磁场大小与方向，使得电机转矩平稳、噪声小、效率高，并且具有高速的动态响应。利用FOC控制方法，可以实现很多传统控制方法无法达到的效果。</p><h2 id="FOC的优势"><a href="#FOC的优势" class="headerlink" title="FOC的优势"></a>FOC的优势</h2><ul><li>低转速下实现精准控制。</li><li>具有卓越的换向性能，并可以以能量回收的形式进行刹车控制。</li><li>可实现力矩控制，即可实现电流环、速度环、位置环三环控制。</li><li>低噪音、高效率的正弦波驱动。</li></ul>]]></content>
     
     <summary type="html">
     
