@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://20syy.github.io/"/>
-  <updated>2020-07-23T05:42:20.724Z</updated>
+  <updated>2020-07-23T05:45:02.098Z</updated>
   <id>http://20syy.github.io/</id>
   
   <author>
@@ -21,16 +21,18 @@
     <link href="http://20syy.github.io/2020/07/23/FOC%E6%8E%A7%E5%88%B6%E7%AC%94%E8%AE%B0/"/>
     <id>http://20syy.github.io/2020/07/23/FOC%E6%8E%A7%E5%88%B6%E7%AC%94%E8%AE%B0/</id>
     <published>2020-07-23T05:19:30.766Z</published>
-    <updated>2020-07-23T05:42:20.724Z</updated>
+    <updated>2020-07-23T05:45:02.098Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="FOC控制学习"><a href="#FOC控制学习" class="headerlink" title="FOC控制学习"></a>FOC控制学习</h1><blockquote><p>因为项目需要，需要使用到伺服电机，作为机器人开发的爱好者，我认为需要学习一下无刷电机的驱动器，这里就把自己学习foc驱动器的过程记录一下。本人并非自控专业，若文章有错，也欢迎指出！</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>因为项目需要，需要使用到伺服电机，作为机器人开发的爱好者，我认为需要学习一下无刷电机的驱动器，这里就把自己学习foc驱动器的过程记录一下。本人并非自控专业，若文章有错，也欢迎指出！</p></blockquote><h1 id="FOC"><a href="#FOC" class="headerlink" title="FOC"></a>FOC</h1>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;FOC控制学习&quot;&gt;&lt;a href=&quot;#FOC控制学习&quot; class=&quot;headerlink&quot; title=&quot;FOC控制学习&quot;&gt;&lt;/a&gt;FOC控制学习&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;因为项目需要，需要使用到伺服电机，作为机器人开发的爱好者，我认为需要学习一
+        &lt;blockquote&gt;
+&lt;p&gt;因为项目需要，需要使用到伺服电机，作为机器人开发的爱好者，我认为需要学习一下无刷电机的驱动器，这里就把自己学习foc驱动器的过程记录一下。本人并非自控专业，若文章有错，也欢迎指出！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;FOC&quot;&gt;&lt;a
       
     
     </summary>
